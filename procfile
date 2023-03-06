@@ -1,0 +1,1 @@
+web: gunicorn diyaaryproject.wsgi --log-file -
